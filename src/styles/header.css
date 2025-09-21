@@ -1,0 +1,23 @@
+.header {
+  background-color: #026aa7;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header a {
+  color: white;
+  font-weight: bold;
+}
+
+.header button {
+  background-color: #5aac44;
+  color: white;
+  font-weight: bold;
+}
+
+.header button:hover {
+  background-color: #61bd4f;
+}
